@@ -29,8 +29,8 @@ You may also see any lint errors in the console.
 
 ## TODO
 
-Componenet About Me
-Componenet My Offer
-Clients notifications by email
-Foot with social media
-Describe in the README file rest customize components texts
+Componenet About Me. \
+Componenet My Offer. \
+Clients notifications by email. \
+Foot with social media. \
+Describe in the README file rest customize components texts. \

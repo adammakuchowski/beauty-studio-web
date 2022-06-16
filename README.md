@@ -8,7 +8,7 @@ My first React project web app about beauty studio. So far this project is just 
 
 ## Steps customized texts
 
-Create an .env file in the main project folder
+Create an .env file in the main project folder \
 In .evn create the variables
 
 To main banner: \

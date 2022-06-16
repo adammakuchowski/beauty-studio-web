@@ -11,7 +11,7 @@ My first React project web app about beauty studio. So far this project is just 
 Create an .env file in the main project folder
 In .evn create the variables
 
-To main banner:
+To main banner: \
 REACT_APP_MAIN_BANNER_TEST='your company name'
 REACT_APP_MAIN_BANNER_SLOGAN='your company slogan' 
 

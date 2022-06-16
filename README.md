@@ -40,7 +40,6 @@ Describe in the README file rest customize components texts.
 ## Main banner
 ![mainBanner](https://user-images.githubusercontent.com/94242778/174099325-4773c9e7-1742-462d-ba59-17cae7fc5c09.PNG)
 
-## Main banner
 ## About Me
 ## My Offer
 ## Clients notifications by email

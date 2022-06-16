@@ -34,3 +34,8 @@ Componenet My Offer. \
 Clients notifications by email. \
 Foot with social media. \
 Describe in the README file rest customize components texts.
+
+# Screenshots
+
+## Main banner
+![mainBanner](https://user-images.githubusercontent.com/94242778/174099325-4773c9e7-1742-462d-ba59-17cae7fc5c09.PNG)

@@ -33,4 +33,4 @@ Componenet About Me. \
 Componenet My Offer. \
 Clients notifications by email. \
 Foot with social media. \
-Describe in the README file rest customize components texts. \
+Describe in the README file rest customize components texts.

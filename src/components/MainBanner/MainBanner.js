@@ -9,7 +9,7 @@ const MainBanner = () => {
         <section className='mainBanner'>
             <img src={mainLogo} alt="main logo" className='mainLogo'></img>
             <div className='companyDetails'>
-                <h1>{process.env.REACT_APP_MAIN_BANNER_TEST}</h1>
+                <h1>{process.env.REACT_APP_MAIN_BANNER_TEXT}</h1>
                 <p>{process.env.REACT_APP_MAIN_BANNER_SLOGAN}</p>
                 <div className='mainBannerBtn'>
                     <a href='#'><span></span>About Me</a>

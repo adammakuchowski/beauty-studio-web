@@ -8,11 +8,11 @@ My first React project web app about beauty studio. So far this project is just 
 
 ## Steps customized texts
 
-Create an .env file in the main project folder
+Create an .env file in the main project folder \
 In .evn create the variables
 
-To main banner:
-REACT_APP_MAIN_BANNER_TEXT='your company name'
+To main banner: \
+REACT_APP_MAIN_BANNER_TEXT='your company name' \
 REACT_APP_MAIN_BANNER_SLOGAN='your company slogan' 
 
 ## Available Scripts
@@ -29,8 +29,18 @@ You may also see any lint errors in the console.
 
 ## TODO
 
-Componenet About Me
-Componenet My Offer
-Clients notifications by email
-Foot with social media
-Describe in the README file rest customize components texts
+Componenet About Me. \
+Componenet My Offer. \
+Clients notifications by email. \
+Footer with social media. \
+Describe in the README file rest customize components texts.
+
+# Screenshots
+
+## Main banner
+![mainBanner](https://user-images.githubusercontent.com/94242778/174099325-4773c9e7-1742-462d-ba59-17cae7fc5c09.PNG)
+
+## About Me
+## My Offer
+## Clients notifications by email
+## Footer

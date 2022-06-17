@@ -12,7 +12,7 @@ Create an .env file in the main project folder \
 In .evn create the variables
 
 To main banner: \
-REACT_APP_MAIN_BANNER_TEST='your company name' \
+REACT_APP_MAIN_BANNER_TEXT='your company name' \
 REACT_APP_MAIN_BANNER_SLOGAN='your company slogan' 
 
 ## Available Scripts

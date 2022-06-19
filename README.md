@@ -4,7 +4,7 @@ React web application project about beauty studio.
 
 ## Project description 
 
-My first React project web app about beauty studio. So far this project is just a learn react.js.
+My first React project web app. So far this project is just a learn react.js.
 
 ## Steps customized texts
 

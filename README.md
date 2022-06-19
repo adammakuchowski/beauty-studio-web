@@ -1,4 +1,4 @@
-# About the project
+# About the beauty-studio-web project
 
 React web application project about beauty studio.
 
